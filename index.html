@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+ <link rel="shortcut icon"
+   href="GJ.ico">
+   
+  <title>GameJet</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+    
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-black w3-wide w3-padding w3-card">
+    <a href="#home" class="w3-bar-item w3-button"><b>Game</b> Jet</a>
+    
+    <!-- Float links to the right. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="#Games" class="w3-bar-item w3-button">Games</a>
+      <a href="#Tools" class="w3-bar-item w3-button">Tools</a>
+      <a href="#About us" class="w3-bar-item w3-button">About us</a>
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1600px;" id="home">
+  <img class="w3-image" src="banner.png" alt="Architecture" width="1600" height="1">
+  <div class="w3-display-middle w3-margin-top w3-center">
+    <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>Game</b></span> <span class="w3-hide-small w3-text-light-grey">Jet</span></h1>
+  </div>
+</header>
+
+<!-- Page content -->
+<div class="w3-content w3-padding w3-black" style="max-width:1564px">
+
+  <!-- Project Section -->
+  <div class="w3-container w3-padding-32" id="Games">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-15">Games(Swing)</h3>
+  </div>
+  <div class="w3-row-padding">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <a href="snek.zip" download>Snake game</a>
+        <header class="w3-display-container w3-content" style="max-width:200px;" id="Games">
+  <img class="w3-image" src="snake.png" alt="Architecture" width="200" height="2">
+    </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+       <a href="beta.zip" download>BlockGlock(BETA)</a>
+        <img src="black.png" alt="" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">COMING SOON</div>
+        <img src="/w3images/house3.jpg" alt="Game" style="width:100%">
+      </div>
+    </div>
+  </div>
+  
+   <!-- Project Section -->
+  <div class="w3-container w3-padding-100" id="Tools">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-32">Games(LWJGL) COMING SOON</h3>
+    <header class="w3-display-container w3-content w3-wide" style="width:100%;" id="home">
+        <img src="black.png" alt="" style="width:100%">
+        </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-col l3 m6 w3-margin-bottom w3-padding-32">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">COMING SOON</div>
+        <header class="w3-display-container w3-content w3-wide" style="max-width:200px;" id="home">
+        <img src="black.png" alt="" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding-32">COMING SOON</div>
+        <img src="/w3images/house2.jpg" alt="Game" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding-32">COMING SOON</div>
+        <img src="/w3images/house3.jpg" alt="Game" style="width:100%">
+      </div>
+    </div>
+
+
+<!-- Project Section -->
+  <div class="w3-container w3-padding-100" id="Tools">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Tools</h3>
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-col l3 m6 w3-margin-bottom w3-padding-32">
+      <div class="w3-display-container">
+        <a href="swingypainty.zip" download>Swingypainty</a>
+        <header class="w3-display-container w3-content w3-wide" style="max-width:200px;" id="home">
+  <img class="w3-image" src="painty.jpg" alt="painty" width="200" height="1">
+        <img src="black.png" alt="" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding-32">COMING SOON</div>
+        <img src="/w3images/house2.jpg" alt="Game" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding-32">COMING SOON</div>
+        <img src="/w3images/house3.jpg" alt="Game" style="width:100%">
+      </div>
+    </div>
+  </div>
+  
+  <!-- About Section -->
+  <div class-"w3-container w3-padding-32 w3-grey" id="upd">
+       <h3 class="w3-border-bottom w3-border-light-grey w3-padding-19">Updates from the gamedev</h3>
+       <p>
+        </p>
+       </div>
+  <div class="w3-container w3-padding-32 w3-grey" id="About us">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-19">About us</h3>
+    <p>I made this project with my friend.
+    Our names are Szilard and Marius.
+    We did this because of boredom and to test our knowledge of coding.I am doing html and my friend Marius does Java Here are our Facebook profiles in case something happens. Contact us anytime.
+
+
+  <div class="w3-row-padding w3-grayscale w3-grey">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+ <img src="Szilard.jpg" alt="Szilard" style="width:50%">
+      <h3>Szilard Gyorgy</h3>
+      <p class="w3-opacity">Web designer</p>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+          <img src="Marius.jpg" alt="Marius" style="width:50%">
+      <h3>Marius Sebastian</h3>
+      <p class="w3-opacity">Tools and games developer</p>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
